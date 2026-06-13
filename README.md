@@ -1,31 +1,31 @@
-Hi, I'm Chandana Priya — a cybersecurity student from Hyderabad working towards a SOC Analyst role.
-Currently following a structured 12-week blue team roadmap focused on threat detection, log analysis, and incident response.
+<div align="center">
 
-Currently on: 
-Week 1 — Networking — the SOC analyst's lens
-Topics in progress:
-- Topics in progress:
-- Networking fundamentals — TCP/IP, DNS, HTTP/S, ICMP, ARP
-- Common ports — 22, 80, 443, 3389, 445
-- Wireshark — capturing and filtering live traffic
-- Understanding normal vs abnormal network behavior
+# 👋 Hi, I'm Chandana Priya Palyam
 
+### 🛡️ Aspiring SOC Analyst | Threat Detection • Incident Response • Digital Forensics
 
-Platform                                 
-- TryHackMe — Pre-Security path        In progress
-- TryHackMe — SOC Level 1 path         In progress
-- OverTheWire Bandit                   Levels 0–20
-- LetsDefend.io                 Active — alert triage practice
-- CyberDefenders                  Blue team lab challenges
+[![Status](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen)]()
+[![Focus](https://img.shields.io/badge/Focus-SOC%20Analyst-critical)]()
+[![Portfolio](https://img.shields.io/badge/View-Cybersecurity%20Portfolio-blue)](https://github.com/chandupalyam25/cybersecurity-portfolio)
 
-Tools I'm working with:
-- Wireshark 
-- Ubuntu
+</div>
 
-Certifications:
-- Introduction to Cybersecurity(CISCO)           
-- Cybersecurity Hands-On Workshop          —      [Bharath Kumar Reddy - LYFAUX Technology Pvt Ltd] [Feb - 2025]
-- TryHackMe SOC Level 1 path               —       in progress
+---
 
-📎 LinkedIn: www.linkedin.com/in/chandana-priya-palyam
-📎 E-mail  : chandanapriyapalyam@gmail.com
+I'm an aspiring cybersecurity professional building hands-on skills in **Security Operations (SOC)**, **Threat Detection**, **Incident Response**, and **Digital Forensics** through virtual experience programs, labs, and real-world projects.
+
+### 🔧 Currently Learning
+- Splunk · Wireshark · Linux · TryHackMe SOC Path
+
+### 📂 Explore My Work
+👉 **[Cybersecurity Portfolio](https://github.com/chandupalyam25/cybersecurity-portfolio-)** — Virtual experience programs, labs, projects, and certifications
+
+### 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/chandana-priya-palyam)
+- 🐙 [GitHub](https://github.com/chandupalyam25)
+
+---
+
+<div align="center">
+⭐ Thanks for stopping by!
+</div>
