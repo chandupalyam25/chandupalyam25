@@ -18,7 +18,9 @@ I'm an aspiring cybersecurity professional building hands-on skills in **Securit
 - Splunk · Wireshark · Linux · TryHackMe SOC Path
 
 ### 📂 Explore My Work
-👉 **[Cybersecurity Portfolio](https://github.com/chandupalyam25/cybersecurity-portfolio-)** — Virtual experience programs, labs, projects, and certifications
+- 👉 [Cybersecurity Portfolio](https://github.com/chandupalyam25/cybersecurity-portfolio-) 
+- 👉 [Certifications](https://github.com/chandupalyam25/certificates)
+
 
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/chandana-priya-palyam)
