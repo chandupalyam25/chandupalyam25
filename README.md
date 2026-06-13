@@ -6,7 +6,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen)]()
 [![Focus](https://img.shields.io/badge/Focus-SOC%20Analyst-critical)]()
-[![Portfolio](https://img.shields.io/badge/View-Cybersecurity%20Portfolio-blue)](https://github.com/chandupalyam25/cybersecurity-portfolio)
+[![Portfolio](https://img.shields.io/badge/View-Cybersecurity%20Portfolio-blue)](https://github.com/chandupalyam25/cybersecurity-portfolio-)
 
 </div>
 
