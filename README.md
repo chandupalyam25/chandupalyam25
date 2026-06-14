@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Chandana Priya Palyam
 
-### 🛡️ Aspiring SOC Analyst | Threat Detection • Incident Response • Digital Forensics
+### 🛡️ Aspiring SOC Analyst | Network Security • SIEM & Splunk • Threat Hunting & Malware Analysis
 
 [![Status](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen)]()
 [![Focus](https://img.shields.io/badge/Focus-SOC%20Analyst-critical)]()
